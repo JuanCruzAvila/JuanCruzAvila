@@ -2,8 +2,10 @@
 
 ### Welcome to my GitHub profile! I'm Juan Cruz Ávila, a data analysis enthusiast with experience in exploring, visualizing, and extracting meaningful insights from complex datasets. My aim is to turn data into actionable knowledge and help make informed decisions.
 ### ⚡*What do I do?*
-Data Analysis: Deep understanding of statistical techniques and analysis tools to uncover patterns, trends, and relationships in data.
-Data Visualization: Creating clear and impactful visualizations to communicate results and facilitate understanding of information. Preference for Power BI projects
+
+-Data Analysis: Deep understanding of statistical techniques and analysis tools to uncover patterns, trends, and relationships in data.
+
+-Data Visualization: Creating clear and impactful visualizations to communicate results and facilitate understanding of information. 
 
 
 
